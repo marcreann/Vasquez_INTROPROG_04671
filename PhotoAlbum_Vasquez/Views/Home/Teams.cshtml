@@ -1,0 +1,165 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Album</title>
+    <style>
+        /* Customize styles as needed */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        .photo-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr); 
+            gap: 10px;
+            justify-content: center;
+        }
+
+
+        .photo-item {
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+
+            .photo-item:hover {
+                transform: scale(1.05);
+            }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .caption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 8px;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Teams</h2>
+
+    <div class="photo-container">
+
+        <div class="photo-item">
+            <img src="https://cdn.nba.com/logos/nba/1610612737/primary/D/logo.svg" alt="Photo 1">
+            <div class="caption">Atlanta Hawks</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://justlovebasketball.com/wp-content/uploads/2022/05/Boston-Celtics.jpg" alt="Photo 2">
+            <div class="caption">Boston Celtics</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://i.pinimg.com/originals/3e/89/ea/3e89ea3b1e36d9e73b1a488d4a01648c.jpg" alt="Photo 3">
+            <div class="caption">Brooklyn Nets</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://www.logo-designer.co/storage/2014/01/Charlotte-Hornets-Basketball-NBA-Brand-Identity-Logo-Design-10.jpg" alt="Photo 4">
+            <div class="caption">Charlotte Hornets</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI.png" alt="Photo 5">
+            <div class="caption">Chicago Bulls</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://sports.cbsimg.net/fly/images/nba/logos/team/light/337.svg" alt="Photo 6">
+            <div class="caption">Cleveland Cavaliers</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://i.pinimg.com/originals/18/d8/96/18d8961aac3fbd30e41e7593b858e16c.jpg" alt="Photo 7">
+            <div class="caption">Dallas Mavericks</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://cdn.nba.com/logos/nba/1610612743/primary/D/logo.svg" alt="Photo 8">
+            <div class="caption">Denver Nuggets</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Detroit_Pistons.png" alt="Photo 9">
+            <div class="caption">Detroit Pistons</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://s.hdnux.com/photos/65/40/01/14024814/4/1200x0.jpg" alt="Photo 10">
+            <div class="caption">Golden State Warriors</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://loodibee.com/wp-content/uploads/houston-rockets-logo-symbol-300x300.png" alt="Photo 11">
+            <div class="caption">Houston Rockets</div>
+        </div>
+
+        <div class="photo-item">
+            <img src="https://loodibee.com/wp-content/uploads/indiana-pacers-logo-symbol-300x300.png" alt="Photo 12">
+            <div class="caption">Indiana Pacers</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://logos-download.com/wp-content/uploads/2016/04/LA_Clippers_logo_logotype_emblem-700x700.png" alt="Photo 13">
+            <div class="caption">Los Angeles Clippers</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://seeklogo.com/images/L/los-angeles-lakers-nba-logo-D303ACAC63-seeklogo.com.png" alt="Photo 14">
+            <div class="caption">Los Angeles Lakers</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://loodibee.com/wp-content/uploads/nba-memphis-grizzlies-logo-300x300.png" alt="Photo 15">
+            <div class="caption">Memphis Grizzlies</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://cdn.nba.com/teams/static/heat/images/global/team-logos/1610612748/core-mh.svg?imwidth=3840" alt="Photo 16">
+            <div class="caption">Miami Heat</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://www.jsonline.com/gcdn/presto/2019/07/17/PMJS/b0f159eb-441b-47b4-a020-777f488de91b-AP_Bucks_New_Logo.JPG?width=660&height=660&fit=crop&format=pjpg&auto=webp" alt="Photo 17">
+            <div class="caption">Milwaukee Bucks</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://cdn.nba.com/logos/nba/1610612750/primary/D/logo.svg" alt="Photo 18">
+            <div class="caption">Minnesota Timberwolves</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://pluspng.com/img-png/new-orleans-pelicans-logo-png--500.png" alt="Photo 19">
+            <div class="caption">New Orleans Pelicans</div>
+        </div>
+        <div class="photo-item">
+            <img src="https://cdn.bleacherreport.net/images/team_logos/328x328/new_york_knicks.png" alt="Photo 20">
+            <div class="caption">New York Knicks</div>
+        </div>
+
+    </div>
+</body>
+</html>
+

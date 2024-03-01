@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Homepage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-image: url('https://i.pinimg.com/originals/13/95/1c/13951c31687edc6a7b6d8c2166357663.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ffff;
+        }
+
+        p {
+            text-align: center;
+            color: #ffff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        .teams-container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .team-card {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.5);
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 10px; 
+        }
+
+
+
+            .team-card:hover {
+                transform: scale(1.05);
+            }
+
+        .team-logo {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NBA Homepage</h1>
+        <p>Explore the world of NBA!</p>
+
+        <div id="teams" class="teams-container">
+            <div class="team-card Players">
+                <a asp-action="Players">
+                    <img class="team-logo" src="https://i0.wp.com/sportytell.com/wp-content/uploads/2020/11/NBA-Logo-transparent.png" alt="Players">
+                    <h3>Players</h3>
+                    <p></p>
+                </a>
+            </div>
+
+            <div class="team-card Teams">
+                <a asp-action="Teams">
+                    <img class="team-logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/512px-Chicago_Bulls_logo.svg.png" alt="Teams">
+                    <h3>Teams</h3>
+                    <p></p>
+                </a>
+            </div>
+
+            <div class="team-card Stats">
+                <a asp-action="Stats">
+                    <img class="team-logo" src="https://blog.logomyway.com/wp-content/uploads/2017/01/NBA-75th-anniversary-logo.jpg" alt="Stats">
+                    <h3>Stats</h3>
+                    <p></p>
+                </a>
+            </div>
+
+            <div class="team-card Leaders">
+                <a asp-action="Leaders">
+                    <img class="team-logo" src="https://images.ctfassets.net/h8q6lxmb5akt/1FO9p7hnjktY7RXGF2ZkWs/c9a92165f34136132504be004b09346a/nba-logo-on-nba-game-ball.jpg" alt="Leader">
+                    <h3>Leaders</h3>
+                    <p></p>
+                </a>
+            </div>
+
+            <div class="team-card HallOfFame">
+                <a asp-action="HallOfFame">
+                    <img class="team-logo" src="https://cdn.theathletic.com/cdn-cgi/image/width=1920,format=auto,quality=75/https://cdn.theathletic.com/app/uploads/2023/08/09171052/USATSI_19052918-1024x683.jpg" alt="Hall of Fame">
+                    <h3>Hall of Fame</h3>
+                    <p></p>
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\teams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\teams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\stats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\stats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\halloffame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\halloffame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|c:\\users\\marcr\\source\\repos\\photoalbum_vasquez\\views\\home\\leaders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B958386-8AD5-4F65-80B2-43252F5F09D9}|PhotoAlbum_Vasquez.csproj|solutionrelative:views\\home\\leaders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teams.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Teams.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Teams.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Teams.cshtml",
+              "RelativeToolTip": "Views\\Home\\Teams.cshtml",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAowFAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:54:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Players.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Players.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Players.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Players.cshtml",
+              "RelativeToolTip": "Views\\Home\\Players.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:50:37.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAADRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:26:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stats.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Stats.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Stats.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Stats.cshtml",
+              "RelativeToolTip": "Views\\Home\\Stats.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:18:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HallOfFame.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\HallOfFame.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HallOfFame.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\HallOfFame.cshtml",
+              "RelativeToolTip": "Views\\Home\\HallOfFame.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowGMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:15:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Leaders.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Leaders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Leaders.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Home\\Leaders.cshtml",
+              "RelativeToolTip": "Views\\Home\\Leaders.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:13:13.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:02:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marcr\\source\\repos\\PhotoAlbum_Vasquez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T05:00:52.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
